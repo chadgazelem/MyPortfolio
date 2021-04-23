@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+*{
+    padding: 0 auto;
+    margin: 0 auto;
+}
+body{
+    width: 90%;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+header{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(202, 199, 199) 0px 0px 5px;
+    margin-top: 50px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+main{
+    width: 90%;
+}
+
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+}
