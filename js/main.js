@@ -8,3 +8,6 @@ const links = [
   const question = "What is Superman's real name?"
 const answer = prompt(question);
 alert(`You answered ${answer}`);
+
+var num1 = parseFloat.getEl
+innehtml
