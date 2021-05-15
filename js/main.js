@@ -1,13 +1,16 @@
-const links = [
-    {
-      label: "Week1 notes",
-      url: "week1/index.html"
-    }
-  ]
+// const links = [
+//     {
+//       label: "Week1 notes",
+//       url: "week1/index.html"
+//     }
+//   ]
 
-  const question = "What is Superman's real name?"
-const answer = prompt(question);
-alert(`You answered ${answer}`);
-
-var num1 = parseFloat.getEl
-innehtml
+const form = document.forms['search'];
+form.addEventListener ('submit', search, false);
+function search() {
+alert(' Form Submitted');
+}
+function search(event) {
+  alert('Form Submitted');
+  event.preventDefault();
+  }
